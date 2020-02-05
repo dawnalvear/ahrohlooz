@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aevohghaw.1rick.com/sitemap.xml
